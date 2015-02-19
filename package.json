@@ -1,0 +1,17 @@
+{
+	"name": "SAPFioriNodejsStarterApp",
+	"version": "0.0.1",
+	"description": "A sample SAP Fiori App for Bluemix",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "3.4.7",
+		"jade": "1.1.4",
+		 "ejs": "1.0.0"
+	},
+	"engines": {
+		"node": "0.10.*"
+	},
+	"repository": {}
+}

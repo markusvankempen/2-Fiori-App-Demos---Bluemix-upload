@@ -1,0 +1,17 @@
+{
+    "Menu": [{
+        "title": "About",
+		"icon": "sap-icon://message-information",
+        "targetPage": "Info",
+        "description": "More on Markus"
+    },
+    {
+        "title": "Home",
+        "icon": "sap-icon://home",
+        "targetPage": "Launchpad",
+        "description": "This Page "
+    }
+    ]
+    
+    
+}
